@@ -6,3 +6,5 @@ Creating a new branch test.
 dev branch
 dev1 branch
 dev2 branch
+
+Bug branch test.
